@@ -52,7 +52,7 @@ I am Pankil Doshi, currently pursuing my B.Tech in Computer Engineering from [Dh
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=pankildoshi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankildoshi&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankildoshi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=dart,css,scss,html&langs_count=4" />
 </td>
 </tr>
 </table>
